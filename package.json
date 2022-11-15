@@ -13,6 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "homepage": "http://horeatiff.github.io/RoboFriends",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
