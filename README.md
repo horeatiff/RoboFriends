@@ -1,2 +1,2 @@
 # RoboFriends
- React App with JsonPlaceholder REST API
+ React App with JsonPlaceholder REST API and dynamic search.
